@@ -868,6 +868,7 @@ By comparing AIC in Table, though spline model also has the smallest AIC value, 
 ## Comparing machine learning models by MSE
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE}
+xgb_mse <- 3.345888 # For previous test round result
 dfsp <- data.frame(models = c("Pruned Regression Tree",
                               "Bagging",
                               "Random Forest",
