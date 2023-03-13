@@ -1,7 +1,7 @@
 name: "Shiyuan Zhou Final Project"
 output_dir: "."
 navbar:
-  title: "JSC370 Final Project-Shiyuan Zhou"
+  title: "Machine Learning Application on WHO Life Expectancy Data"
   left:
     - text: "Main"
       icon: fa-home fa-lg
